@@ -10,7 +10,6 @@ This repository helps to develop wordpress theme in Docker.
 ## Quick Start
 
 ```bash
-$ git clone git@github.com:satotakumi/devwp-docker.git
-$ cd devwp-docker
-$ ./start.sh
+$ git clone git@github.com:satotakumi/devwp-docker.git && cd devwp-docker
+$ ./devwp.sh start
 ```
