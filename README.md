@@ -2,6 +2,7 @@
 
 This repository helps to develop wordpress theme in Docker.
 
+![Imgur](http://i.imgur.com/wLl5Bdv.png)
 ## Requirements
 
 * [Docker](https://www.docker.com/)
