@@ -2,7 +2,7 @@
 
 This repository helps to develop wordpress theme in Docker.
 
-## Required
+## Requirements
 
 * [Docker](https://www.docker.com/)
 * [docker-compose](https://docs.docker.com/compose/)
